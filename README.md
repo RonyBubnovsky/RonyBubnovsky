@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a full-stack developer dedicated to building scalable and performant web applications. With a strong background in designing, developing, and deploying end-to-end solutions, I bring ideas to life using modern technologies and best practices.  
+I'm a full-stack developer dedicated to building scalable and performant web applications. I'm currently finishing my B.Sc. in Software Engineering and actively seeking a junior full-stack development position. With a strong background in designing, developing, and deploying end-to-end solutions, I bring ideas to life using modern technologies and best practices.  
 I have a passion for automating workflows and improving processes to ensure robust, maintainable, and efficient applications.
 
 **📫 Contact Me:** [rony.bubnovsky@gmail.com](mailto:rony.bubnovsky@gmail.com)
