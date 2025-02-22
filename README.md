@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="background.png" alt="Background showcasing full-stack development elements" style="max-width:100%; height:auto;" />
+  <img src="background.jpeg" alt="Background showcasing full-stack development elements" style="max-width:100%; height:auto;" />
 </p>
 
 ---
