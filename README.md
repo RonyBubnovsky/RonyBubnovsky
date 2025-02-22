@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hi, I'm Rony Bubnovsky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="waving hand"/>
+  Hi, I'm Rony Bubnovsky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="waving hand"/> 
+  <br /><small>💻🛠️🚀</small>
 </h1>
 <p align="center">
   <strong>Passionate Full-Stack Developer</strong> <br />
@@ -31,7 +32,7 @@
 
 ---
 
-## About Me
+## About Me 💻
 
 - **Full-Stack Developer:** Dedicated to building scalable and performant web applications.
 - **Academic Background:** Currently finishing my B.Sc. in Software Engineering.
@@ -43,7 +44,7 @@
 
 ---
 
-## Tech Stack
+## Tech Stack 🔧
 
 ### Languages
 <p align="center">
@@ -87,23 +88,19 @@
 
 ---
 
-## GitHub Stats
+## GitHub Stats 📊
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RonyBubnovsky&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyBubnovsky&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=RonyBubnovsky&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyBubnovsky&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=RonyBubnovsky&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyBubnovsky&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=RonyBubnovsky&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyBubnovsky&theme=tokyonight" alt="GitHub Streak" />
+  </p>
+</div>
