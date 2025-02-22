@@ -86,6 +86,14 @@
   <img src="https://img.shields.io/badge/Render-0094F5?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
+### Testing & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Jest-99424F?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/pytest-F75545?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+</p>
+
 ---
 
 ## GitHub Stats 📊
