@@ -1,11 +1,11 @@
-<h1 align="center"> Hi there, I'm Rony 👋</h1>
+<h1 align="center">Hi there, I'm Rony 👋</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | React | Node.js | MongoDB | Docker 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rony&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RonyBubnovsky&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-### 🛠️ Tech Stack 
+---
 
 #### 🔹 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,16 +44,16 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rony&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RonyBubnovsky&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-### 🔥 Most Used Languages  
+### 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rony&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyBubnovsky&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
