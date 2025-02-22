@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Rony Bubnovsky 👋</h1>
+<h1 align="center">
+  Hi, I'm Rony Bubnovsky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="waving hand"/>
+</h1>
 <p align="center">
   <strong>Passionate Full-Stack Developer</strong> <br />
   <em>React | Node.js | MongoDB | Docker</em>
