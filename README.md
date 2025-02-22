@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
   <strong>Passionate Full-Stack Developer</strong> <br />
-  <em>React | Node.js | MongoDB | Docker</em>
+  <em>MERN Stack</em>
 </p>
 
 <p align="center">
