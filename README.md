@@ -22,6 +22,10 @@
   <img src="https://komarev.com/ghpvc/?username=RonyBubnovsky&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="background.jpg" alt="Background showcasing full-stack development elements" style="max-width:100%; height:auto;" />
+</p>
+
 ---
 
 ## About Me
