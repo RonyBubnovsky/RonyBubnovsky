@@ -111,4 +111,11 @@
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyBubnovsky&theme=tokyonight" alt="GitHub Streak" />
   </p>
+  <!-- Additional Stats -->
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonyBubnovsky&theme=react-dark" alt="GitHub Activity Graph" />
+  </p>
+  <p>
+    <img src="https://ghchart.rshah.org/RonyBubnovsky" alt="GitHub Contribution Graph" />
+  </p>
 </div>
