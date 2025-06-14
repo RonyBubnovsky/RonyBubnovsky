@@ -77,15 +77,14 @@ const rony = {
 ### 🔧 DevOps & CI/CD
 <p>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark" />
-<img src="https://skillicons.dev/icons?i=&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="48" height="48" alt="CircleCI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="48" height="48" alt="Render"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" width="48" height="48" alt="CircleCI" style="filter: invert(1);"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white&labelColor=46E3B7" width="48" height="48" alt="Render"/>
 </p>
 
 ### 🧪 Testing & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=postman,cypress,jest&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" height="48" alt="pytest"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="48" height="48" alt="pytest"/>
 </p>
 
 </div>
