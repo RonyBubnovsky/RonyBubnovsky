@@ -1,5 +1,5 @@
 # <div align="center">
-  
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=180&section=header&text=Hi,%20I'm%20Rony%20Bubnovsky&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
 <div align="center">
@@ -16,12 +16,12 @@
 
 ```typescript
 const rony = {
-    role: "Full-Stack Developer",
-    education: "B.Sc. Software Engineering",
-    currentFocus: "Seeking junior full-stack position",
-    passion: ["Automation", "Scalable Solutions", "Clean Code"],
-    experience: "End-to-end development",
-    contact: "rony.bubnovsky@gmail.com"
+  role: "Full-Stack Developer",
+  education: "B.Sc. Software Engineering",
+  currentFocus: "Seeking junior full-stack position",
+  passion: ["Automation", "Scalable Solutions", "Clean Code"],
+  experience: "End-to-end development",
+  contact: "rony.bubnovsky@gmail.com",
 };
 ```
 
@@ -55,26 +55,31 @@ const rony = {
 <div align="center">
 
 ### 🎯 Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css&theme=dark" />
 </p>
 
 ### 🎨 Frontend Magic
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 </p>
 
 ### ⚡ Backend Power
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,flask&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Cloud
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,redis&theme=dark" />
 </p>
 
 ### 🔧 DevOps & CI/CD
+
 <p>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" width="48" height="48" alt="CircleCI" style="filter: invert(1);"/>
@@ -82,6 +87,7 @@ const rony = {
 </p>
 
 ### 🧪 Testing & Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=postman,cypress,jest&theme=dark" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="48" height="48" alt="pytest"/>
@@ -127,7 +133,10 @@ const rony = {
 <td width="100%">
 
 ### 🐍 Watch the Snake Eat My Contributions!
-<img src="https://raw.githubusercontent.com/RonyBubnovsky/RonyBubnovsky/output/snake.svg" alt="Snake animation" />
+
+<div align="center" style="max-width: 100%; overflow: hidden;">
+<img src="https://raw.githubusercontent.com/RonyBubnovsky/RonyBubnovsky/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+</div>
 
 </td>
 </tr>
