@@ -75,13 +75,13 @@ const rony = {
 ### 🗄️ Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,redis&theme=dark" />
 </p>
 
 ### 🔧 DevOps & CI/CD
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,aws&theme=dark" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" width="48" height="48" alt="CircleCI" style="filter: invert(1);"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white&labelColor=46E3B7" width="48" height="48" alt="Render"/>
 </p>
