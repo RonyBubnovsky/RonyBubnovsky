@@ -127,7 +127,9 @@ const rony = {
 <td width="100%">
 
 ### 🐍 Watch the Snake Eat My Contributions!
+<div style="display: flex; justify-content: center; overflow: hidden; border-radius: 10px;">
 <img src="https://raw.githubusercontent.com/RonyBubnovsky/RonyBubnovsky/output/snake.svg" alt="Snake animation" />
+</div>
 
 </td>
 </tr>
