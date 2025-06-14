@@ -133,7 +133,9 @@ const rony = {
 </tr>
 </table>
 
-</div>### 💭 Dev Quote
+</div>
+
+### 💭 Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
