@@ -75,7 +75,7 @@ const rony = {
 ### 🗄️ Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,aws&theme=dark" />
 </p>
 
 ### 🔧 DevOps & CI/CD
